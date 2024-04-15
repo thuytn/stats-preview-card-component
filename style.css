@@ -95,7 +95,7 @@ html {
     font-weight: 400;
     font-size: var(--fs-para);
     color: var(--main-paragraph);
-    line-height: 1.5;
+    line-height: 2;
 }
 
 .content__stats {
